@@ -1,7 +1,12 @@
 /* styles.css */
 
 .odd-numbers{
-  background-color:#ff91a4
+  background-color:#ff91a4;
+  font-family:Verdana,"DejaVu Sans",sans-serif;
+}
+
+.odd-numbers.three{
+  font-size:24px;
 }
 
 #two{
