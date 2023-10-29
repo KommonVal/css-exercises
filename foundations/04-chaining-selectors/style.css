@@ -13,17 +13,3 @@
     width:200px;
   }
 }
-
-.original.proportioned{
-  img{
-    height:auto;
-    width:300px;
-  }
-}
-
-.original.distorted{
-    img{
-    height:400px;
-    width:200px;
-  }
-}
