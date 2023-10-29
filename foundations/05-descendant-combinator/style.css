@@ -1,5 +1,6 @@
 .container .text {
   background-color:yellow;
   color:red;
-  text-align:centered;
+  text-align:center;
+  text-weight:bold;
 }
