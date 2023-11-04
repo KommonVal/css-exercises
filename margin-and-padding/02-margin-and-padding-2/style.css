@@ -21,11 +21,13 @@ body {
   background: #e3f4ff;
   border: 8px;
   padding: 24px;
+  text-align :center;
 }
 
 .button-container {
   background: #e3f4ff;
   border: 8px;
+  padding: 24px;
 }
 
 button {
