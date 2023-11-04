@@ -8,16 +8,19 @@ body {
   background: #fff;
   margin: 16px auto;
   border: 8px;
+  padding: 24px;
 }
 
 .title {
   background: #e3f4ff;
   border: 8px;
+  padding: 24px;
 }
 
 .content {
   background: #e3f4ff;
   border: 8px;
+  padding: 24px;
 }
 
 .button-container {
@@ -28,4 +31,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 24px;
 }
